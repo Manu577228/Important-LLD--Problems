@@ -8,7 +8,8 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 Important LLD Problems ( Programming Language : Javascript ).
+- 📦 1. Important LLD Problems ( Programming Language : Javascript ).
+      2. System Design Theory ( Credits - Interview Bit ).
 
 ## Getting Started
 
